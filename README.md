@@ -6,10 +6,11 @@
 ### About Me :
 
 
-I am a Software Engineer and a Final year Embedded Systems Master's student at [FH Dortmund](https://www.fh-dortmund.de/), Germany. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Software Engineer and a Final year Embedded Systems Master's student at [FH Dortmund](https://www.fh-dortmund.de/), Germany. <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="30">.
+
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 </a>
 
 - 🎓 I'm a Master Student at <a href="https://www.fh-dortmund.de/" target="blank">FH Dortmund</a>
