@@ -77,7 +77,7 @@ I am a Software Engineer and a Final year Embedded Systems Master's student at [
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 ![MATLAB](https://img.shields.io/badge/Matlab-%23000000.svg?style=for-the-badge&logo=matrixlab&logoColor=white)
 
-#### ML/DL:
+### ML/DL:
 
 ![Pytorch](https://img.shields.io/badge/Pytorch-FF6F00?style=for-the-badge&logo=Pytorch&logoColor=white)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -88,7 +88,7 @@ I am a Software Engineer and a Final year Embedded Systems Master's student at [
 
 
 
-#### Tools and Technologies:
+### Tools and Technologies:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -116,7 +116,7 @@ I am a Software Engineer and a Final year Embedded Systems Master's student at [
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; 
 -->
 
-#### IDEs:
+### IDEs:
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
