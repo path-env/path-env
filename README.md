@@ -101,7 +101,7 @@ I am a Software Engineer and a Final year Embedded Systems Master's student at [
 ![Vector CANoe](https://img.shields.io/badge/Vector-CANoe-E54f30?style=for-the-badge&logo=rational%doors&logoColor=white)
 
 
-### Platforms,libraries and Frameworks:
+### Platforms,Libraries and Frameworks:
 ![CARLA](https://img.shields.io/badge/CARLA-121011?style=for-the-badge&logo=carla&logoColor=white)&nbsp;
 ![MNE](https://img.shields.io/badge/MNE-121011?style=for-the-badge&logo=MNE&logoColor=white)&nbsp;
 ![OpenBCI](https://img.shields.io/badge/Open_BCI-0078d7?style=for-the-badge&logo=OpenBCI&logoColor=white)&nbsp;
@@ -123,6 +123,10 @@ I am a Software Engineer and a Final year Embedded Systems Master's student at [
 <!-- ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp; -->
 
+### Software Development Methodologies:
+![CI/CD](https://img.shields.io/badge/cicd-%23FA0F00.svg?style=for-the-badge&logo=CI/CD&logoColor=white)&nbsp;
+![Agile](https://img.shields.io/badge/Agile-143?style=for-the-badge&logo=Agile&logoColor=black&color=black&labelColor=green)&nbsp;
+![V-Model](https://img.shields.io/badge/V_Model-143?style=for-the-badge&logo=V-Model&logoColor=black&color=black&labelColor=green)&nbsp;
 ---
 
 ### :fire: My Stats :
