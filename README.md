@@ -19,9 +19,9 @@ I am a Software Engineer and a Final year Embedded Systems Master's student at [
 
 - 🔭 I currently research and work on Brain Computer Interfaces 🧠 🤖
 
-- 🌱 I currently work on dashboards and large scale machine learning pipeline
+- 🌱 I currently work on dashboards and large scale machine learning pipelines.
 
-- 👯 I’m looking to collaborate on Data Science and Control Systems topics
+- 👯 I’m looking to collaborate on Robotics, Data Science and Control Systems topics
 
 <!-- - 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>  -->
 
