@@ -65,8 +65,6 @@ I am a Software Engineer and a Final year Embedded Systems Master's student at [
     </div>
 </p>
 
----
-
 ## Skills:
 
 ### Languages:
