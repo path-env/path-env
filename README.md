@@ -14,11 +14,11 @@ I am a Software Engineer and a Final year Embedded Systems Master's student at [
 
 - 🎓 I'm a Master Student at <a href="https://www.fh-dortmund.de/" target="blank">FH Dortmund</a>
   
-- 🔭 I’m currently working in <a href="https://hella-aglaia.com/" target="blank">Hella Aglaia Mobile Vision GmbH</a>
+- 🔭 I’m currently working at <a href="https://hella-aglaia.com/" target="blank">Hella Aglaia Mobile Vision GmbH</a>
 
-- 🔭 I’m currently research and work on Brain Computer Interfaces 🧠 🤖
+- 🔭 I currently research and work on Brain Computer Interfaces 🧠 🤖
 
-- 🌱 I’m currently work on dashboards and large scale machine learning pipeline
+- 🌱 I currently work on dashboards and large scale machine learning pipeline
 
 - 👯 I’m looking to collaborate on Data Science and Control Systems topics
 
