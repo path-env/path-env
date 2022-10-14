@@ -62,6 +62,8 @@ I am a Software Engineer and a Final year Embedded Systems Master's student at [
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="mailto:mangaldeepbabu@gmail.com">
 					<img src="https://img.icons8.com/plasticine/0.5x/gmail.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://www.xing.com/profile/MangalDeep_BalasubramaniMaruthaBabu/cv">
+				<img src="https://img.icons8.com/plasticine/0.5x/xing.png" ></a>
     </div>
 </p>
 
