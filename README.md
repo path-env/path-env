@@ -27,7 +27,7 @@ I am a Software Engineer and a Final year Embedded Systems Master's student at [
 
 - 💬 Let's talk about robotics and automobiles. 🤖
 
-- 📄 Get to know me more <a href="" target="blank">Resume</a>
+- 📄 Get to know me more <a href="https://github.com/path-env/path-env/blob/main/MangalDeep_Resume.pdf" target="blank">Resume</a>
 
 
 **My Reseach Interest**:
@@ -58,7 +58,7 @@ I am a Software Engineer and a Final year Embedded Systems Master's student at [
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a> -->
-		<a style="margin-left: 5px;" target="_blank" href="">
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/path-env/path-env/blob/main/MangalDeep_Resume.pdf">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="mailto:mangaldeepbabu@gmail.com">
 					<img src="https://img.icons8.com/plasticine/0.5x/gmail.png" ></a>
