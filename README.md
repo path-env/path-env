@@ -65,7 +65,7 @@ I am a Software Engineer and a Final year Embedded Systems Master's student at [
 		<a style="margin-left: 5px;" target="_blank" href="https://www.xing.com/profile/MangalDeep_BalasubramaniMaruthaBabu/cv">
 				<img src="https://img.icons8.com/plasticine/0.5x/xing.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://hub.docker.com/u/mangaldeep">
-				<img src="https://img.icons8.com/plasticine/0.5x/docker.png" ></a>
+				<img src="https://img.icons8.com/doodle/344/docker.png" ></a>
     </div>
 </p>
 
